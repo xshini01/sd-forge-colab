@@ -1,4 +1,4 @@
-# Basic Stable Diffusion
+# Stable Diffusion Forge Neo
 
 ### Colab
 
